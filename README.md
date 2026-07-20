@@ -177,7 +177,10 @@ They are **not** part of the game project and are **not** shared when you publis
 
 ## License
 
-No license file is set yet. Add one before a public release if you want clear reuse terms (e.g. MIT).
+[MIT](./LICENSE) — Copyright (c) 2026 Koen Verheyen
+
+You may use this plugin in personal and commercial Godot projects, modify it,
+and redistribute it, as long as you keep the copyright and license notice.
 
 ---
 
